@@ -8,7 +8,7 @@ Each folder contains a separate question with its own **README.md** file explain
 
 - `Question_1` - Solution for **LRU Cache** in C++
 - `Question_2` - Solution for **MyHashMap** implementation in C++
-- `Question_3(BookReviewApp)` - A simple **Book Review App** built for Android using Java (MVVM architecture)
+- `Question_3(BookReviewApp)` - A simple **Book Review App** built for Android using Java (MVVM architecture).
 
 ## How to Read
 
